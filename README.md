@@ -2,6 +2,6 @@
 
 This repo consists of the programs I did during a workshop I attended. 
 
-This repo is for the **STM32G431MB6** microcontroller
+This repo is for the **STM32G431MBT6** microcontroller
 
 1. LED Blinking
